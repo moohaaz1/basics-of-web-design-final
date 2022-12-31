@@ -1,0 +1,377 @@
+.sec12 p {
+  text-align: center;
+  font-size: 40px;
+  background-color: rgb(220, 219, 219);
+  padding: 3%;
+}
+* {
+  padding: 0;
+  margin: 0;
+}
+.zep p {
+  margin: 100px;
+  font-size: 20px;
+}
+.sec12 img {
+  width: 60%;
+  margin-left: 20%;
+  border: 2px solid orange;
+}
+.titl p {
+  text-align: center;
+  font-size: 30px;
+  background-color: pink;
+  padding: 30px;
+}
+.titl img {
+  width: 50%;
+  margin-left: 25%;
+  border: 2px solid pink;
+  margin-top: 10px;
+}
+.center img {
+  width: 70%;
+  margin-left: 15%;
+  margin-top: 10px;
+}
+.center p {
+  text-align: center;
+  padding: 50px;
+  background-color: pink;
+}
+.iron-1 {
+  text-align: center;
+  font-size: 30px;
+  background-color: rgb(135, 30, 30);
+  color: rgb(255, 174, 0);
+  padding: 30px;
+}
+.iron-2 img {
+  width: 50%;
+  margin-left: 25%;
+  border: 2px solid red;
+}
+
+.iron-3 {
+  text-align: center;
+  font-size: 40px;
+  background-color: rgb(133, 64, 64);
+  color: white;
+  padding: 20px;
+}
+.iron-4 {
+  text-align: center;
+  background-color: black;
+}
+.iron-5 img {
+  width: 94%;
+  
+  padding: 30px;
+}
+.iron-6 img {
+  width: 250px;
+  margin-left: 8%;
+  border: 3px solid red;
+}
+.iron-6 img:hover {
+  transform: translateY(-20px);
+  transition: 0.5s;
+}
+.iron-7  img{
+  width: 94%;
+  text-align: center;
+  padding: 30px;
+}
+.iron-8 {
+  text-align: center;
+  font-size: 40px;
+  padding: 20px;
+}
+.gadal {
+  background-color: rgb(236, 234, 234);
+  margin: 60px;
+}
+.markab-1 {
+  text-align: center;
+  background-color: black;
+  padding: 60px;
+  color: white;
+}
+.markab-2 img{
+  width: 60%;
+}
+.markab-2 {
+  text-align: center;
+}
+.markab-3 {
+  text-align: center;
+  font-size: 50px;
+  background-color: black;
+  padding: 30px;
+  color: white;
+}
+.markab-4 {
+  text-align: center;
+  font-size: 40px;
+  padding: 20px;
+  color: white;
+}
+.gadal-1 {
+  background-color: black;
+  margin: 50px;
+}
+.guri-1 {
+  text-align: center;
+  background-color: rgb(194, 75, 2);
+  padding: 60px;
+  color: white;
+  font-size: 30px;
+}
+.guri-2 img{
+  width: 40%;
+}
+.guri-2 {
+  text-align: center;
+}
+.guri-3 {
+  text-align: center;
+  font-size: 50px;
+  background-color: rgb(219, 102, 0);
+  padding: 30px;
+  color: white;
+}
+.markab-4 {
+  text-align: center;
+  font-size: 40px;
+  padding: 20px;
+  color: white;
+}
+.gadal-2 {
+  background-color: rgb(179, 86, 5);
+  margin: 70px;
+}
+.shabel-1 {
+  text-align: center;
+  background-color: rgb(218, 218, 218);
+  padding: 50px;
+  color: rgb(15, 14, 14);
+  font-size: 20px;
+}
+.shabel-3 {
+  text-align: center;
+  background-color: rgb(220, 220, 220);
+  padding: 90px;
+  color: rgb(0, 0, 0);
+  font-size: 70px;
+}
+.shabel-6 img {
+  width: 30%;
+  margin-left: 20px;
+}
+.shabel-6 p {
+  text-align: center;
+  color: white;
+  font-size: 30px;
+  padding: 30px;
+}
+.shabel-6 :hover {
+  transform: translateY(-20px);
+  transition: 0.5s;
+}
+.shabel-7 img {
+  width: 30%;
+  margin-left: 20px;
+}
+.shabel-7 :hover {
+  transform: translateY(-20px);
+  transition: 0.5s;
+}
+
+.gadal-3 {
+  background-color: black;
+  margin: 100px;
+  margin-top: -2px;
+}
+.clup-1 {
+  text-align: center;
+  background-color: rgb(91, 25, 13);
+  padding: 30px;
+  color: white;
+  font-size: 20px;
+}
+.clup-2 img{
+  width: 60%;
+}
+.clup-2 {
+  text-align: center;
+}
+.clup-3 {
+  text-align: center;
+  background-color: rgb(232, 230, 230);
+  padding: 30px;
+  font-size: 30px;
+}
+.clup-4 {
+  text-align: center;
+}
+.clup-4 img {
+  width: 30%;
+}
+.clup-5 img {
+  width: 20%;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.clup-5 {
+  padding: 30px;
+  text-align: center;
+}
+.clup-5 img:hover {
+  transform: translateY(-20px);
+  transition: 0.5s;
+}
+.cover {
+  background-color: rgb(154, 21, 21);
+  margin-left: 10%;
+  margin-right: 10%;
+}
+.clup-6 {
+  margin-left: 20%;
+  font-size: 20px;
+  color: white;
+  padding: 10px;
+  padding-bottom: 20px;
+}
+.clup-6 nav {
+  color: rgb(255, 187, 0);
+  font-size: 30px;
+}
+.clup-7 img {
+  width: 100%;
+}
+.cover-2 {
+  background-color: rgb(0, 0, 0);
+  margin-left: 10%;
+  margin-right: 10%;
+}
+.clup-8 img {
+  width: 100%;
+  margin-top: -6px;
+}
+.cover-3 {
+  background-color: rgb(154, 21, 21);
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.gumes-1 {
+  text-align: center;
+  background-color: rgb(236, 234, 234);
+  padding: 20px;
+}
+.gumes-2 {
+  text-align: center;
+}
+.gumes-3 p {
+  text-align: center;
+  padding: 20px;
+  font-size: 30px;
+}
+.gumes-3 img {
+  width: 20%;
+  margin-left: 10%;
+}
+.gumes-3 img:hover {
+  transform: translateY(-20px);
+  transition: 0.5s;
+}
+.cover-4 {
+  background-color: rgb(235, 235, 235);
+  margin-left: 10%;
+  margin-right: 10%;
+}
+.gumes-4 img {
+  width: 23%;
+  margin-left: 8%;
+  padding-top: 40px;
+}
+.gumes-4 img:hover {
+  transform: translateY(-20px);
+  transition: 0.5s;
+}
+.gumes-4 nav {
+  font-size: 20px;
+  font-weight: 900;
+}
+.gumes-4 p {
+  margin-left: 10%;
+  font-size: 20px;
+  padding: 20px;
+}
+.gumes-5 img {
+  width: 100%;
+}
+.qasri-1 {
+  text-align: center;
+  background-color: rgb(255, 195, 16);
+  padding: 30px;
+}
+.qasri-2 {
+  text-align: center;
+}
+.cover-5 {
+  background-color: rgb(255, 195, 16);
+  margin-left: 10%;
+  margin-right: 10%;
+}
+.qasri-3 p {
+  margin-left: 10%;
+  font-size: 40px;
+  padding: 40px;
+}
+.qasri-3 img {
+  padding: 10px;
+  width: 27%;
+  margin-left: 35px;
+}
+.qasri-3 img:hover {
+  transform: translateY(-20px);
+  transition: 0.5s;
+}
+.qasri-5 img {
+  width: 100%;
+}
+.qasri-4 p {
+  margin-left: 10%;
+  font-size: 20px;
+  padding: 30px;
+}
+.clup4 img {
+  width: 100%;
+}
+.coverr {
+  background-color: rgb(172, 7, 7);
+  margin-left: 10%;
+  margin-right: 10%;
+}
+.gaari-1 img {
+  width: 100%;
+}
+
+.gaari-2 img {
+  width: 100%;
+}
+
+.coverr-1 {
+  background-color: black;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+.head-1 p {
+  margin-left: 15%;
+  font-size: 50px;
+  color: white;
+}
+.head-1 {
+  background-color: rgb(109, 10, 5);
+}

@@ -1,0 +1,70 @@
+.h {
+  font-size: 8px;
+  justify-content: space-around;
+  background-color: rgb(64, 64, 64);
+  color: white;
+}
+.h h1 {
+  margin-left: 10%;
+  font-size: 20px;
+}
+.h {
+  padding: 10px;
+  margin: 10px;
+}
+p {
+  text-align: center;
+  background-color: rgb(226, 226, 226);
+  font-size: 30px;
+  margin: 60px;
+  margin-bottom: 100px;
+}
+.row {
+  width: 200px;
+}
+.categorias {
+  margin: 70px 0;
+}
+.col-3 {
+  display: flex;
+}
+.boxes {
+  height: 590px;
+  width: 5px;
+  padding-right: 1000px;
+  display: flex;
+  padding-left: 60px;
+}
+.box img {
+  margin: 20px;
+  border: 5px solid rgb(187, 174, 174);
+  border-radius: 10px;
+ 
+}
+.box img{
+  width: 350px;
+}
+.headerr {
+  background-color: #fff, #ffd6d6;
+}
+
+.subfooter {
+  background-color: lightblue;
+  text-align: center;
+  height: 26px;
+}
+@media screen and (max-width: 600px) {
+  .boxes {
+    height: 590px;
+    width: 5px;
+    padding-right: 1000px;
+  }
+  p {
+    text-align: center;
+    background-color: rgb(226, 226, 226);
+    font-size: 20px;
+    text-align: center;
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
